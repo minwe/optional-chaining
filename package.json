@@ -1,6 +1,6 @@
 {
   "name": "object-optional-chaining",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES Optional Chaining",
   "main": "./lib/optional-chaining.js",
   "directories": {
