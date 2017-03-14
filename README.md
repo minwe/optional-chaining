@@ -4,8 +4,8 @@
 [![build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
 
-[npm-image]: http://img.shields.io/npm/v/optional-chaining.svg?style=flat-square
-[npm-url]: http://npmjs.org/package/optional-chaining
+[npm-image]: http://img.shields.io/npm/v/object-optional-chaining.svg?style=flat-square
+[npm-url]: http://npmjs.org/package/object-optional-chaining
 [travis-image]: https://img.shields.io/travis/minwe/optional-chaining.svg?style=flat-square
 [travis-url]: https://travis-ci.org/minwe/optional-chaining
 [coveralls-image]: https://img.shields.io/coveralls/minwe/optional-chaining.svg?style=flat-square
